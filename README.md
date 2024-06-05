@@ -35,6 +35,7 @@ Hello, I'm Lucas Milani Thomsen Galhardo, a student of computer engineering at t
 - [CaronApp](https://github.com/VgsStudio/CaronApp_front) 🚗
 - [MauáFood](https://github.com/Maua-Dev/mf_mss_product) 🍔
 - [Clean Arch Template](https://github.com/Maua-Dev/clean_mss_template) 🧼
+- [Devil's Revenge](https://github.com/NawatGames/Projeto_2) 😈
 
 ## GitHub Status 🔥
 
