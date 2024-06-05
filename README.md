@@ -4,13 +4,13 @@ Hello, I'm Lucas Milani Thomsen Galhardo, a student of computer engineering at t
 
 ## About me 🕵️‍♀️
 
-🎯 **Objective**: This profile is dedicated to projects, development and experiments, both personal and professional, throughout my journey as a programmer.
+- 🎯 **Objective**: This profile is dedicated to projects, development and experiments, both personal and professional, throughout my journey as a programmer.
 
-💼 **Employment**: Currently, I'm employed at Mundivox [↳](https://www.mundivox.com/).
+- 💼 **Employment**: Currently, I'm employed at Mundivox [↳](https://www.mundivox.com/).
 
-👅 **Languages**: Portuguese, English, Spanish.
+- 👅 **Languages**: Portuguese, English, Spanish.
 
-🚩 **Location**: São Paulo, Brazil.
+- 🚩 **Location**: São Paulo, Brazil.
 
 ## Networking 🌐
 
