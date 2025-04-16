@@ -37,6 +37,7 @@ Hello, I'm Lucas Milani Thomsen Galhardo, a student of computer engineering at t
 - [Clean Arch Template](https://github.com/Maua-Dev/clean_mss_template) 🧼
 - [Devil's Revenge](https://github.com/NawatGames/Projeto_2) 😈
 - [Gloowy](https://gloowy.com.br/) ✨
+- [iCreator](https://www.icreator.com.br/) 🤳
 
 ## GitHub Status 🔥
 
