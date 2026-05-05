@@ -32,6 +32,7 @@ Hello, I'm Lucas Milani Thomsen Galhardo, a student of computer engineering at t
 
 ## Projects I've Been Part 📂
 
+- [Plataforma Bit Academy](https://www.bitacademy.vip/) 💰
 - [CaronApp](https://github.com/VgsStudio/CaronApp_front) 🚗
 - [MauáFood](https://github.com/Maua-Dev/mf_mss_product) 🍔
 - [Clean Arch Template](https://github.com/Maua-Dev/clean_mss_template) 🧼
